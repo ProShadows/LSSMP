@@ -178,16 +178,16 @@ class LSSMP: JavaPlugin() {
             HEART_CONFIG["options.shaped"] = true
 
 
-            HEART_CONFIG["recipe.slots.1.item"] = "gold block"
-            HEART_CONFIG["recipe.slots.2.item"] = "bone meal"
-            HEART_CONFIG["recipe.slots.3.item"] = "gold block"
+            HEART_CONFIG["recipe.slots.1.item"] = "diamond block"
+            HEART_CONFIG["recipe.slots.2.item"] = "netherite block"
+            HEART_CONFIG["recipe.slots.3.item"] = "diamond block"
 
-            HEART_CONFIG["recipe.slots.4.item"] = "obsidian"
-            HEART_CONFIG["recipe.slots.5.item"] = "fermented spider eye"
-            HEART_CONFIG["recipe.slots.6.item"] = "obsidian"
+            HEART_CONFIG["recipe.slots.4.item"] = "netherite ingot"
+            HEART_CONFIG["recipe.slots.5.item"] = "elytra"
+            HEART_CONFIG["recipe.slots.6.item"] = "netherite ingot"
 
             HEART_CONFIG["recipe.slots.7.item"] = "diamond block"
-            HEART_CONFIG["recipe.slots.8.item"] = "diamond block"
+            HEART_CONFIG["recipe.slots.8.item"] = "netherite ingot"
             HEART_CONFIG["recipe.slots.9.item"] = "diamond block"
 
             HEART_CONFIG.save(HEART_RECIPE_FILE)
